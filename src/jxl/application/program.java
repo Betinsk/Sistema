@@ -48,7 +48,6 @@ public class program {
 			}
 				        System.out.println(list);
 				    
-	
 			for (int i=0;i<matriz.length;i++) {
 				for (int j=0;j< matriz[0].length;j++) {
 					System.out.print(matriz[i][j] + "\t");
